@@ -2314,6 +2314,12 @@ ul {
   color: #000 !important;
 }
 
+
+.navbar-brand img {
+  max-width: 300px;
+}
+
+
 /* line 110, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
 .dropdown:hover .dropdown-menu {
   transform: scale(1);
@@ -2322,7 +2328,7 @@ ul {
 @media (max-width: 991px) {
   /* line 116, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
   .navbar-brand img {
-    max-width: 100px;
+    max-width: 200px;
   }
   /* line 119, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
   .navbar-light .navbar-toggler-icon {
